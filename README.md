@@ -1,20 +1,10 @@
 ### Ad
 
-🕷️ **Scrape Like a PRO – Without Ever Getting Blocked!**
-
-🔥 **80M+ Rotating Residential IPs**  
-🔥 **ZERO Captchas, ZERO Bans**  
-🔥 **195 Countries – Pinpoint Any City**  
-🔥 **Blazing-Fast Speeds & 99.97% Uptime**
-
-**LIMITED-TIME DEAL**  
-🎁 **10 FREE Proxies** + **10% OFF Your First Month**  
-(Just for you – no strings attached!)
-
-[**GRAB IT BEFORE IT’S GONE →**](https://www.webshare.io/?referral_code=u0ycd3q5pslh)
-
-Don’t let blocks kill your scraper ever again.  
-Join 64,000+ happy customers and start scraping like a beast today!
+<p align="center">
+  <a href="https://github.com/nuhmanpk">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007EC6,100:00C6FF&height=200&section=header&text=🚀%20Your%20Ad%20Here&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Promote%20your%20product%20to%20developers%20today&descAlignY=65&descSize=16" />
+  </a>
+</p>
 
 ---
 
@@ -158,3 +148,5 @@ Be cautious about scraping social media: Social media platforms have their own t
 Show your support [here](https://github.com/sponsors/nuhmanpk)
 
 <Br><b>Mark your Star [⭐⭐](https://github.com/nuhmanpk/WebScrapper/stargazers)<b>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nuhmanpk/webscrapper&type=Date)](https://star-history.com/#nuhmanpk/webscrapper&Date)
